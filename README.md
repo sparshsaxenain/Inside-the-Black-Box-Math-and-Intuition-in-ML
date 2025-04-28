@@ -15,4 +15,4 @@ This repository is designed to complement the blog series by providing detailed 
 ## 📖 Blog Series
 
 > Explore the blog series here:  
-> [**Inside the Black Box: Math and Intuition in ML**]()  
+> [**Inside the Black Box: Math and Intuition in ML**](https://medium.com/@sparshsaxena3649/list/inside-the-black-box-math-and-intuition-in-ml-2bb83b76116d)  
